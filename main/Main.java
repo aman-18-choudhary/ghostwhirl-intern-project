@@ -1,6 +1,6 @@
 package main;
 
-// this is faeture roll no
+// this is faeture class no 
 import exception.InvalidAttendanceException;
 import exception.InvalidMarksException;
 import model.Student;
