@@ -1,5 +1,6 @@
 package main;
 
+// this is main code 
 import exception.InvalidAttendanceException;
 import exception.InvalidMarksException;
 import model.Student;
