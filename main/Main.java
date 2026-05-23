@@ -1,6 +1,6 @@
 package main;
 
-// this is main code 
+// this is faeture roll no
 import exception.InvalidAttendanceException;
 import exception.InvalidMarksException;
 import model.Student;
